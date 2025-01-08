@@ -63,7 +63,7 @@ You can run this project in your local evironment, follow these steps:
 
 ## Usage
 
-Walkthrough video URL: 
+Walkthrough video URL: https://drive.google.com/file/d/13m8yT93gxM1mLLDR5iy_uTffFFTVQJrQ/view?usp=sharing
 
 
 ## License
